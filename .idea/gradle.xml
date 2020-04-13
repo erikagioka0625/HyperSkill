@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Parking Lot/task" />
+            <option value="$PROJECT_DIR$/Problems (1)/The information about a person" />
+            <option value="$PROJECT_DIR$/Problems (10)/Boxes" />
+            <option value="$PROJECT_DIR$/Problems (11)/Shape" />
+            <option value="$PROJECT_DIR$/Problems (12)/String processor" />
+            <option value="$PROJECT_DIR$/Problems (13)/String processor" />
+            <option value="$PROJECT_DIR$/Problems (14)/Harry Potter" />
+            <option value="$PROJECT_DIR$/Problems (15)/Size of parts" />
+            <option value="$PROJECT_DIR$/Problems (16)/Maximum element divisible by 4" />
+            <option value="$PROJECT_DIR$/Problems (17)/The last digit of a number" />
+            <option value="$PROJECT_DIR$/Problems (18)/The maximum pairwise product" />
+            <option value="$PROJECT_DIR$/Problems (19)/Initializing an array of longs" />
+            <option value="$PROJECT_DIR$/Problems (2)/N-th symbol" />
+            <option value="$PROJECT_DIR$/Problems (20)/Is it here?" />
+            <option value="$PROJECT_DIR$/Problems (21)/Just checking" />
+            <option value="$PROJECT_DIR$/Problems (22)/Individual taxes" />
+            <option value="$PROJECT_DIR$/Problems (23)/The sum of elements" />
+            <option value="$PROJECT_DIR$/Problems (24)/Collatz conjecture" />
+            <option value="$PROJECT_DIR$/Problems (25)/Collatz conjecture" />
+            <option value="$PROJECT_DIR$/Problems (26)/The sum of digits" />
+            <option value="$PROJECT_DIR$/Problems (27)/Balance checker" />
+            <option value="$PROJECT_DIR$/Problems (28)/Balance checker" />
+            <option value="$PROJECT_DIR$/Problems (29)/Fizz Buzz" />
+            <option value="$PROJECT_DIR$/Problems (3)/Four numbers" />
+            <option value="$PROJECT_DIR$/Problems (30)/Right equation" />
+            <option value="$PROJECT_DIR$/Problems (31)/Comparing sums" />
+            <option value="$PROJECT_DIR$/Problems (32)/Division" />
+            <option value="$PROJECT_DIR$/Problems (33)/Leap year" />
+            <option value="$PROJECT_DIR$/Problems (34)/Strings as objects" />
+            <option value="$PROJECT_DIR$/Problems (35)/Initializing an array" />
+            <option value="$PROJECT_DIR$/Problems (36)/Getting letters from the Alphabet" />
+            <option value="$PROJECT_DIR$/Problems (37)/Unique characters" />
+            <option value="$PROJECT_DIR$/Problems (38)/Unique characters" />
+            <option value="$PROJECT_DIR$/Problems (39)/A small version of the Battleship game" />
+            <option value="$PROJECT_DIR$/Problems (4)/Max values of integer types" />
+            <option value="$PROJECT_DIR$/Problems (40)/Complex numbers" />
+            <option value="$PROJECT_DIR$/Problems (41)/Area printer" />
+            <option value="$PROJECT_DIR$/Problems (42)/Area printer" />
+            <option value="$PROJECT_DIR$/Problems (43)/Pseudo-constructor" />
+            <option value="$PROJECT_DIR$/Problems (44)/Composition" />
+            <option value="$PROJECT_DIR$/Problems (45)/Point2D" />
+            <option value="$PROJECT_DIR$/Problems (46)/Point2D" />
+            <option value="$PROJECT_DIR$/Problems (47)/Bank account" />
+            <option value="$PROJECT_DIR$/Problems (48)/Reddit" />
+            <option value="$PROJECT_DIR$/Problems (49)/Compare Latin letters" />
+            <option value="$PROJECT_DIR$/Problems (5)/Size, min and max" />
+            <option value="$PROJECT_DIR$/Problems (50)/Digits or not" />
+            <option value="$PROJECT_DIR$/Problems (51)/A capital letter or a digit" />
+            <option value="$PROJECT_DIR$/Problems (52)/Patient needs a doctor" />
+            <option value="$PROJECT_DIR$/Problems (53)/Volume of a cube" />
+            <option value="$PROJECT_DIR$/Problems (54)/Car" />
+            <option value="$PROJECT_DIR$/Problems (55)/House inheritance" />
+            <option value="$PROJECT_DIR$/Problems (56)/House inheritance" />
+            <option value="$PROJECT_DIR$/Problems (57)/A simple calculator" />
+            <option value="$PROJECT_DIR$/Problems (58)/copy() usage" />
+            <option value="$PROJECT_DIR$/Problems (59)/equals() check" />
+            <option value="$PROJECT_DIR$/Problems (6)/Number dividers" />
+            <option value="$PROJECT_DIR$/Problems (60)/toString() modification" />
+            <option value="$PROJECT_DIR$/Problems (61)/equals() check" />
+            <option value="$PROJECT_DIR$/Problems (62)/toString() modification" />
+            <option value="$PROJECT_DIR$/Problems (63)/toString() modification" />
+            <option value="$PROJECT_DIR$/Problems (7)/Swap" />
+            <option value="$PROJECT_DIR$/Problems (8)/Swap" />
+            <option value="$PROJECT_DIR$/Problems (9)/Between two numbers" />
+            <option value="$PROJECT_DIR$/Problems/Are the numbers different?" />
+            <option value="$PROJECT_DIR$/Problems/Check the sum" />
+            <option value="$PROJECT_DIR$/Problems/Check the value" />
+            <option value="$PROJECT_DIR$/Problems/Good rest on vacation" />
+            <option value="$PROJECT_DIR$/Problems/How many nuts will be left after division" />
+            <option value="$PROJECT_DIR$/Problems/Is between" />
+            <option value="$PROJECT_DIR$/Problems/Next even number" />
+            <option value="$PROJECT_DIR$/Problems/Printing each word in a new line" />
+            <option value="$PROJECT_DIR$/Problems/Read and print" />
+            <option value="$PROJECT_DIR$/Problems/Triangle" />
+            <option value="$PROJECT_DIR$/Problems/We need to learn Kotlin" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
